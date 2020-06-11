@@ -3,7 +3,7 @@
 ## Blogs of yakiniku-daisuki.
 
 ## Recent
-- 匿名化のすすめ
+- [匿名化のすすめ](https://yakiniku-daisuki.github.io/20200611-anony.md)
 
 ## Back_Number
 
